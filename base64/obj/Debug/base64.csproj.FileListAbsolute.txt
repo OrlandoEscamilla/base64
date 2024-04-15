@@ -1,0 +1,7 @@
+D:\Users\jomalibran\source\repos\base64\base64\bin\Debug\base64.exe.config
+D:\Users\jomalibran\source\repos\base64\base64\bin\Debug\base64.exe
+D:\Users\jomalibran\source\repos\base64\base64\bin\Debug\base64.pdb
+D:\Users\jomalibran\source\repos\base64\base64\obj\Debug\base64.csproj.AssemblyReference.cache
+D:\Users\jomalibran\source\repos\base64\base64\obj\Debug\base64.csproj.CoreCompileInputs.cache
+D:\Users\jomalibran\source\repos\base64\base64\obj\Debug\base64.exe
+D:\Users\jomalibran\source\repos\base64\base64\obj\Debug\base64.pdb
