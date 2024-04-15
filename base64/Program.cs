@@ -19,7 +19,7 @@ namespace base64
 
 
             // URL de la imagen que queremos descargar
-            string urlImagen = "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305130205/Csharp1.png";
+            string urlImagen = "" //ruta de la imagen de internet;
 
             // Nombre del archivo donde se guardará la imagen
             string nombreArchivo = "imagen.jpg";
