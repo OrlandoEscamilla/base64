@@ -31,6 +31,12 @@ namespace base64
 
             Console.WriteLine("Imagen descargada correctamente.");
             Console.WriteLine("hola");
+
+
+            for (int i = 0; i< 10; i++)
+            {
+                Console.WriteLine("Este es un mensaje que se repite 10 veces");
+            }
         }
 
             static void DescargarImagen(string urlImagen, string nombreArchivo)
