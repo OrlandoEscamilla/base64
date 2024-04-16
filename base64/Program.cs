@@ -15,11 +15,11 @@ namespace base64
     {
         static void Main(string[] args)
         {
-            
+
 
 
             // URL de la imagen que queremos descargar
-            string urlImagen = "" //ruta de la imagen de internet;
+            string urlImagen = "Aqui va la cadena de la url de internet de la imagen"; //ruta de la imagen de internet;
 
             // Nombre del archivo donde se guardará la imagen
             string nombreArchivo = "imagen.jpg";
