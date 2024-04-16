@@ -30,6 +30,7 @@ namespace base64
             DescargarImagen(urlImagen, nombreArchivo);
 
             Console.WriteLine("Imagen descargada correctamente.");
+            Console.WriteLine("hola");
         }
 
             static void DescargarImagen(string urlImagen, string nombreArchivo)
