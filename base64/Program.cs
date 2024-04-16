@@ -24,6 +24,8 @@ namespace base64
             // Nombre del archivo donde se guardará la imagen
             string nombreArchivo = "imagen.jpg";
 
+            string nuevaruta = "C:";
+
             // Descargar la imagen
             DescargarImagen(urlImagen, nombreArchivo);
 
