@@ -36,6 +36,7 @@ namespace base64
             for (int i = 0; i< 10; i++)
             {
                 Console.WriteLine("Este es un mensaje que se repite 10 veces");
+                Console.WriteLine("Este es un mensaje doble que se repite 10 veces");
             }
         }
 
