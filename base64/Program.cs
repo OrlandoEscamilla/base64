@@ -51,6 +51,11 @@ namespace base64
             {
                 Console.WriteLine("nueva funcionalidad");
             }
+
+            for (int i = 10; i > 1; i--)
+            {
+                Console.WriteLine("otra nueva funcionalidad");
+            }
         }
 
             static void DescargarImagen(string urlImagen, string nombreArchivo)
