@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace base64.Models
 {
-    internal class Persona
+    public class Persona
     {
     }
 }
